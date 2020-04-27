@@ -13,6 +13,7 @@
 - not all the text editors have the same features
 - text editors that comes already with your computer software do not have the features that i have mentioned before
 - some text editors do not work on all softwares, for example, *Notepad++* only work on windows.
+..
 
 
 
