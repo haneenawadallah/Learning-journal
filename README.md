@@ -1,38 +1,25 @@
 ## Welcome to my learning journal
 #### In this journal you will find useful information about github, markdown, growthmindset and git.
 
-![Alt](https://us.123rf.com/450wm/alexlaplun/alexlaplun1804/alexlaplun180400005/98627815-cute-funny-man-and-lots-of-messages-or-chat-symbols-information-mass-media-communication-and-discuss.jpg?ver=6"information")
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-mnhWhpWSc28B6zaUhMBap5Mo070M6Ng3MwCSGdxLG0SO9-Hf&usqp=CAU"information")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Haneen Awadallah**
+software development student
 
-### Markdown
+**About me**
+A Business System’s Practice Graduate with a committed,
+flexible, open to training mind, with a sound understanding of business analysis, systems thinking, managing complexity, My strength is definitely the ability to understand and work with varying diverse departments, having both a strong passion about Business Management, sotware development and Graphic Design. Together with strategic - innovation skills and root cause analysis, I strive to do my best effectively and swiftly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**you can contact me**
 
-# Header 1
-## Header 2
-### Header 3
+Email:haneen.awadallah.995@gmail.com
+GitHub: haneenawadallah
 
-- Bulleted
-- List
+**Table of content**
 
-1. Numbered
-2. List
+| [text editors cheat sheet](https://haneenawadallah.github.io/learning-journal/cheatsheet) | [growth mindset](https://haneenawadallah.github.io/Learning-Journal/lab:01b) |
+| ---------------- | ---------------- |
+| [markdown](https://haneenawadallah.github.io/Learning-Journal/read01)     | [text editors fatures and importance](https://haneenawadallah.github.io/Learning-Journal/read02)
+[Git](https://haneenawadallah.github.io/Learning-Journal/read03)    |
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haneenawadallah/Learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
