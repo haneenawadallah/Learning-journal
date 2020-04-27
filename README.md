@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my learning journal
+#### In this journal you will find useful information about github, markdown, growthmindset and git.
 
-You can use the [editor on GitHub](https://github.com/haneenawadallah/Learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Alt](https://us.123rf.com/450wm/alexlaplun/alexlaplun1804/alexlaplun180400005/98627815-cute-funny-man-and-lots-of-messages-or-chat-symbols-information-mass-media-communication-and-discuss.jpg?ver=6"information")
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
