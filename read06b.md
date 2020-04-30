@@ -4,7 +4,7 @@
 
 # what makes a computerm a computer? #
 
-## every computer have 4 things in common which are:##
+## every computer have 4 things in common which are: ##
 1. take input
 1. store information 
 1. process it
