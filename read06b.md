@@ -11,7 +11,7 @@
 1. output the results
 
 # how information is represented with electricity #
-- inside a compuer there are electric wirec and circuits that carry al of the information in the coputer
+- inside a compuer there are electric wirec and circuits that carry al of the information in the computer
 - there are only two options, on &off (Bit) which is the samllest peace of information a computer can store, more wires, more bits.
 
 
@@ -24,7 +24,7 @@
 
 # the 4 parts of a computer #
 
-- input , takes information from the outside environment and compine it to binary informatiom
+- input , takes information from the outside environment and compine it to binary information
 - memory, to store this information
 - cpu, calculate information
 - output, converts information to physical output
