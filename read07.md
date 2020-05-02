@@ -20,19 +20,19 @@ to complete that task (a flowchart can help).
 - An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions. 
 1. EXPRESSIONS THAT JUST ASSIGN A
-VALUE TO A VARIABLE  'var color = 'pink';'
+VALUE TO A VARIABLE  ' var color = 'pink'; '
 
 1. EXPRESSIONS THAT USE TWO OR
 MORE VALUES TO RETURN A
-SINGLE 'VALUE var area = 4 * 5; '
+SINGLE ' VALUE var area = 4 * 5; '
 
 - Expressions rely on things called operators; they allow programmers to
 create a single value from one or more values. 
-1. ASSIGNMENT OPERATORS 'color = 'pink';'
-1. COMPARISON OPERATORS  'buy = 7 > 8; '
-1. ARITHMETIC OPERATORS 'area = 5 * 2; '
-1. LOGICAL OPERATORS 'buy= (6 > 3) && (2 < 5);'
-1. STRING OPERATORS  'greeting= 'Hi 1 + 'Haneen'; '
+1. ASSIGNMENT OPERATORS ' color = 'pink'; '
+1. COMPARISON OPERATORS  ' buy = 7 > 8; '
+1. ARITHMETIC OPERATORS ' area = 5 * 2; '
+1. LOGICAL OPERATORS ' buy= (6 > 3) && (2 < 5); '
+1. STRING OPERATORS  ' greeting= 'Hi 1 + 'Haneen'; '
 
 
 
@@ -46,11 +46,11 @@ reuse the function (rather than repeating the same set of statements).
 ![function](https://www.homeandlearn.co.uk/javascript/images/chapter_4/basic_function.gif "title")
 ## CALLING A FUNCTION ##
 - executing all of the statements in curly braces with one line of code.
-'say Hello().'
+' say Hello().'
 ## GETTING A SINGLE VALUE OUT OF A FUNCTION ##
 'function calculateArea(width, height) {
 var area = width * height;
 return area;
 }
-var wallOne = calculate Area(3, 5);
-var wallTwo = calculate Area(8, 5);'
+' var wallOne = calculate Area(3, 5); '
+' var wallTwo = calculate Area(8, 5); '
