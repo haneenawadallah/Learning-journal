@@ -21,5 +21,6 @@
 - for loop : for specefic number of times
 - while loop : if you dont know how many times
 - do while : will keep run the statement until it become false
+
 ![loopss](https://cdn.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
 
